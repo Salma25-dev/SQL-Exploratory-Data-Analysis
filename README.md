@@ -94,5 +94,5 @@ Identifikation von Top- & Low-Performern:
 - Relationale Datenbank (z. B. SQL Server)
 - Git & GitHub
 
----
+
 
