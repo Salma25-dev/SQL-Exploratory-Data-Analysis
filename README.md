@@ -96,5 +96,3 @@ Identifikation von Top- & Low-Performern:
 
 ---
 
-## 📁 Projektstruktur
-
